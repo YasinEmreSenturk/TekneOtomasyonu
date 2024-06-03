@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|c:\\users\\hp\\source\\repos\\vizecal\u0131sma\\projem\\tekneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|solutionrelative:tekneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|solutionrelative:guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|solutionrelative:guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\tekneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50B51BC9-C26C-4439-ABA4-03D3DA55161E}|Projem.csproj|solutionrelative:tekneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guncelle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Guncelle.cs",
+              "RelativeDocumentMoniker": "Guncelle.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Guncelle.cs",
+              "RelativeToolTip": "Guncelle.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:42:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Guncelle.cs",
+              "RelativeDocumentMoniker": "Guncelle.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Guncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Guncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:36:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TekneEkle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\TekneEkle.cs",
+              "RelativeDocumentMoniker": "TekneEkle.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\TekneEkle.cs",
+              "RelativeToolTip": "TekneEkle.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwEAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:35:01.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TekneEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\TekneEkle.cs",
+              "RelativeDocumentMoniker": "TekneEkle.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\TekneEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TekneEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:34:59.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:33:48.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\vizecal\u0131sma\\Projem\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:19:50.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
